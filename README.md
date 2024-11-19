@@ -1,6 +1,6 @@
 # Power BI Project: Pizza Sales Analysis  
 
-This project showcases my skills in data cleaning, modeling, and interactive visualization using Power BI.  
+This project showcases skills in data cleaning, modeling, and interactive visualization using Power BI.  
 
 
 ![image](https://github.com/user-attachments/assets/7b2dbe93-34d8-4a06-92a4-c4b2fddb0f34)
